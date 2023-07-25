@@ -1,0 +1,1 @@
+cmd_/home/srinivasr/Desktop/Oreilly/Hello_world.mod := printf '%s\n'   Hello_world.o | awk '!x[$$0]++ { print("/home/srinivasr/Desktop/Oreilly/"$$0) }' > /home/srinivasr/Desktop/Oreilly/Hello_world.mod
